@@ -1,2 +1,3 @@
-# tutorial-github
-Solo un repositorio de ejemplo
+# Tutorial Github
+
+Solo un repositorio de ejemplo.
